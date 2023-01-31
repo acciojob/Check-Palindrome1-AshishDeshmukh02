@@ -26,5 +26,7 @@ str = str.toLowerCase();
     // }
     return true;
 }
+ 
+console.log(palindrome("abc"))
 }
 module.exports = palindrome
